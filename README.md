@@ -1,26 +1,19 @@
 <h1 align="center">Hi 👋, I'm Farzad Bahadorifar</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+# 💫 About Me:
+I am a frontend developer based in Iran with around 1 year of experience working with Angular. Currently, I am developing my skills at a software company where I am involved in debugging frontend applications.<br>My main area of focus has been learning Angular, working on features and interfaces. While at this role, I am gaining exposure to backend development through exposure to technologies like .NET and C#.<br>Outside of work, I am continuously working to expand my Angular knowledge through hands-on projects and self-study. Currently, I am reading the book "A no-nonsense guide to building web applications with Angular" to improve my understanding of Angular fundamentals.<br>In the future, I aim to strengthen my software architecture skills and full stack abilities. I am interested in frameworks like NestJS and backend technologies like Node.js. Given my experience with C#, I also want to deepen my skills in .NET development.<br>My goal is to become a well-rounded developer with a solid grasp of design principles and patterns. I enjoy learning through practice and taking on new challenges. Please feel free to check out samples of my work on GitHub as I continue developing my skills.<br>Let me know if you have any other suggestions! I've aimed to provide an accurate portrayal of my current abilities and areas of focus without overstating my experience level.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farzad-bahadorifar&label=Profile%20views&color=0e75b6&style=flat" alt="farzad-bahadorifar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzad-bahadorifar" alt="farzad-bahadorifar" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farzad-bahadorifar) 
 
-- 🌱 I’m currently learning **Angular**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=farzad-bahadorifar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farzad-bahadorifar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farzad-bahadorifar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **angular, typescript and rxjs**
+---
+[![](https://visitcount.itsvg.in/api?id=farzad-bahadorifar&icon=0&color=1)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **bahadorifar.farzad@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farzad-bahadorifar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzad-bahadorifar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzad-bahadorifar&show_icons=true&locale=en&layout=compact" alt="farzad-bahadorifar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzad-bahadorifar&show_icons=true&locale=en" alt="farzad-bahadorifar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzad-bahadorifar&" alt="farzad-bahadorifar" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
